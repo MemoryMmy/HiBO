@@ -20,9 +20,9 @@ Interactive and Online Overlay Analytics of Large Spatial Data. An online demo i
 | Tourism                               | Point      | 36,462    | 36,462 Points       |
 | Places                                | Point      | 582,464   | 582,464 Points      |
 | Public_Transport                      | Point      | 45,478    | 45,478 Points       |
-| Railway                               | Linestring | 97,675    | 309,716 segments    |
-| Highway                               | Linestring | 3,132,496 | 42,497,196 segments |
-| Waterway                              | Linestring | 33,214    | 4,254,732 segments  |
+| Railway                               | Linestring | 97,675    | 309,716 Segments    |
+| Highway                               | Linestring | 3,132,496 | 42,497,196 Segments |
+| Waterway                              | Linestring | 33,214    | 4,254,732 Segments  |
 | Natural_Beach                         | Point      | 148       | 148 Points          |
 | Natural_Cave                          | Point      | 3,237     | 3,237 Points        |
 | Natural_Cliff                         | Point      | 155       | 155 Points          |
