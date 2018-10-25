@@ -11,7 +11,7 @@ Interactive and Online Overlay Analytics of Large Spatial Data. An online demo i
 | Amenity_Entertainment, Arts & Culture | Point      | 6,928     | 6,928 Points        |
 | Amenity_Financial                     | Point      | 13,040    | 13,040 Points       |
 | Amenity_Healthcare                    | Point      | 14,757    | 14,757 Points       |
-| Amenity_Sustenance                    | Point      | 8,9282    | 89,282 Points       |
+| Amenity_Sustenance                    | Point      | 89,282    | 89,282 Points       |
 | Amenity_Transportation                | Point      | 3,114     | 3,114 Points        |
 | Shop                                  | Point      | 82,192    | 82,192 Points       |
 | Religion                              | Point      | 6,219     | 6,219 Points        |
