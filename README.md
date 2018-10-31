@@ -1,5 +1,5 @@
-# HiOverlay
-Interactive and Online Overlay Analytics of Large Spatial Data. An online demo is provided on the Web. The datasets and hardware environment of the DEMO are shown as follows. Experiments on an SMP server with 32 cores/64 threads verify that our approach is capable of handling datasets with ten-million-scale records.
+# HiBO
+Interactive and Online Boffer and Overlay Analytics of Large Spatial Data. An online demo is provided on the Web. The datasets and hardware environment of the DEMO are shown as follows. Experiments on an SMP server with 32 cores/64 threads verify that our approach is capable of handling datasets with ten-million-scale records.
 
 ## [Online Demo](http://www.higis.org.cn:8080/hioverlay/)
 
