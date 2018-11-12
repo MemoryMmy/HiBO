@@ -3,7 +3,7 @@ Interactive and Online Buffer and Overlay Analytics of Large Spatial Data. An on
 
 ## [Online Demo](http://www.higis.org.cn:8080/hibo/) 
 
-Chrome Recommended 
+Chrome is Recommended for the Demo.
 
 ***Tab1. Datasets of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)*** ([Classification standard](https://wiki.openstreetmap.org/wiki/Map_Features))
 
