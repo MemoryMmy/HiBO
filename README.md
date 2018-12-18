@@ -32,6 +32,12 @@ Chrome is Recommended for the Demo.
 | Natural_Spring                        | Point      | 4,780     | 4,780 Points        |
 | Natural_Tree                          | Point      | 533,856   | 533,856 Points      |
 | Natural_Volcano                       | Point      | 13        | 13 Points           |
+| Water_Arae                            | Polygon    | 60,319    | 2,044,622 Edges     |
+| Pois_Arae                             | Polygon    | 279,010   | 2,462,611 Edges     |
+| Pofw_Arae                             | Polygon    | 23,337    | 265,523 Edges       |
+| Places_Arae                           | Polygon    | 4,133     | 273,679 Edges       |
+| Landuse_Area                          | Polygon    | 459,946   | 18,528,176 Edges    |
+| Buildings_Area                        | Polygon    | 2,039,096 | 14,829,921 Edges    |
 
 ***Tab2.  Demo Environment***
 
