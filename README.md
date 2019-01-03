@@ -51,18 +51,15 @@ Chrome is Recommended for the Demo.
 ## Scenario
 
 We have designed a housing site selection scenario to show the effect of the demonstration. Suppose that a new immigrant in Spain wants to choose a place to live which meets the following conditions: 1) convenient to traffic (within 500m from Highways); 2) convenient for children education (within 200m from Education amenities); 3) convenient to the medical care (within 2000m from Healthcare amenities); 4) near to leisure places (within 1000m from Entertainment, Arts & Culture amenities or Waterways but not in Water Area); 5) quiet (at least 300m away from Railways). The conditions can be translated into the following expression. Enter the expression in HiBO and click the Create-Overlay-Layer button (Fig 1), then the result layer will be added to the map in real time. Fig 2 shows the analysis results, in which the red areas are the recommended housing places for the immigrant. 
-
 ![eq](./figures/eq.JPG)
 
 
 ![fig1](./figures/fig1.JPG)
-
 *Fig1. Input of the housing site selection in Spain*
 
 
 
 ![fig2](./figures/fig2.JPG)
-
 *Fig2. Analysis result of the housing site selection in Spain*
 
 
