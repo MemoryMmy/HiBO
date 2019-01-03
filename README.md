@@ -55,11 +55,15 @@ We have designed a housing site selection scenario to show the effect of the dem
 
 
 ![fig1](./figures/fig1.JPG)
+
 *Fig1. Input of the housing site selection in Spain*
 
 
 
+
+
 ![fig2](./figures/fig2.JPG)
+
 *Fig2. Analysis result of the housing site selection in Spain*
 
 
