@@ -71,7 +71,7 @@ We have designed a housing site selection scenario to show the effect of the dem
 
 ## Citation
 
-Ma M, Wu Y, et al. Interactive and Online Buffer-Overlay Analytics of Large-Scale Spatial Data[J]. International Journal of Geo-Information, 2019, 8(1):467. DOI: 10.3390/ijgi8010021
+Ma M, Wu Y, et al. Interactive and Online Buffer-Overlay Analytics of Large-Scale Spatial Data[J]. International Journal of Geo-Information, 2019, 8(1):21. DOI: 10.3390/ijgi8010021
 
 
 ## Contact:
